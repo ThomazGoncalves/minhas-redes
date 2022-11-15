@@ -1,0 +1,14 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body img{
+    padding: 2px;
+    width: 100%;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}

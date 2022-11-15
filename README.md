@@ -1,0 +1,2 @@
+# minhas-redes
+ Projeto utilizado para apresentar de forma estática minhas redes sociais (utilizando html e css).   Para mostrar o conteúdo na tela do iPhone, foi utilizado 'iframe' com o objetivo de apresentar cada página (cada uma está acompanhada de um screenshot de cada rede).  Cada âncora vem acompanhada de um name que chama meu iframe. Fazendo com que dessa forma ao clicar em um link, você abra uma página dentro do mesmo!
